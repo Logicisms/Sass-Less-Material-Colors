@@ -1,12 +1,12 @@
 {
     "name": "sass-less-material-colors",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "description": "Google's Material Design color palettes for Sass/SCSS and Less projects.",
     
     "main": "_google-material-colors.scss",
     "repository": "git@github.com:Logicisms/Sass-Less-Material-Colors.git",
     "author": "Logicisms <jeanluc.harbin@gmail.com>",
-    "license": "LICENSE.md",
+    "license": "Unlicense",
     "private": false,
     
     "keywords": [
