@@ -1,6 +1,6 @@
 {
     "name": "sass-less-material-colors",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Google's Material Design color palettes for Sass/SCSS and Less projects.",
     
     "main": "_google-material-colors.scss",
