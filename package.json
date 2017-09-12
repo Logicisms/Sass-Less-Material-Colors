@@ -1,6 +1,6 @@
 {
     "name": "sass-less-material-colors",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Google's Material Design color palettes for Sass/SCSS and Less projects.",
     
     "main": "_google-material-colors.scss",
@@ -13,7 +13,7 @@
     "homepage": "https://material.io/guidelines/style/color.html#color-color-palette",
     "bugs": "https://github.com/Logicisms/Sass-Less-Material-Colors/issues",
     "files": [
-        "_google-material-colors.scss",
-        "google-material-colors.less"
+        "*.scss",
+        "*.less",
     ]
 }
