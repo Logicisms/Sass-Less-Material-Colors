@@ -9,11 +9,20 @@
     "license": "LICENSE.md",
     "private": false,
     
-    "keywords": ["sass", "scss", "less", "css", "material design", "color palette", "tool"],
+    "keywords": [
+        "sass",
+        "scss",
+        "less",
+        "css",
+        "material design",
+        "color palette",
+        "tool"
+    ],
     "homepage": "https://material.io/guidelines/style/color.html#color-color-palette",
     "bugs": "https://github.com/Logicisms/Sass-Less-Material-Colors/issues",
+    
     "files": [
         "*.scss",
-        "*.less",
+        "*.less"
     ]
 }
